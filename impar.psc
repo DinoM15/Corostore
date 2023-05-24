@@ -7,5 +7,5 @@ Algoritmo imparopar
 	sino 
 		mostrar "es par"
 	FinSi
-	
+	mostrar "la verdad no le se"
 FinAlgoritmo
